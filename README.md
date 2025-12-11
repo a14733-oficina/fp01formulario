@@ -2,7 +2,7 @@ Análise Técnica do Projeto - FP01
 
 📝 Descrição do Projeto
 
-Este projeto demonstra a interação fundamental entre um formulário de registo simples em HTML e um script de processamento em PHP. O objetivo é recolher dados básicos do utilizador (Nome, Idade, Senha) e, no lado do servidor (PHP), processar esses dados para:
+Este projeto demonstra a interação fundamental entre um formulário de registo em HTML e um script de processamento em PHP. O objetivo é recolher dados básicos do utilizador (Nome, Idade, Senha) e processar esses dados para:
 
 1.
 Classificar a idade do utilizador (Criança, Adolescente, Adulto).
@@ -15,12 +15,11 @@ Apresentar uma mensagem de boas-vindas e os resultados da análise.
 
 🛠️ Tecnologias Utilizadas
 
-Tecnologia
-Propósito
+
 HTML5
 Criação do formulário de registo.
 PHP
-Processamento dos dados submetidos, lógica condicional e apresentação de resultados.
+Processmento dos dados submetidos, lógica condicional e apresentação de resultados.
 
 
 📂 Estrutura de Ficheiros
@@ -39,7 +38,7 @@ Plain Text
 
 1. HTML (form.html)
 
-O ficheiro form.html é um formulário simples e direto, focado na recolha de três tipos de dados.
+O ficheiro form.html é um formulário focado na recolha de três tipos de dados.
 
 Elemento
 Atributo name
